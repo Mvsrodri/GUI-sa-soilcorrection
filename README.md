@@ -22,7 +22,8 @@ Repositório criado para o desenvolvimento da GUI do aplicativo para correção 
 ### Layout
   #### Tela EquilibrioCorreçãoCTC
   * Tela para controlar o teor dos nutrientes no solo com layout baseado na planilha de correção de solos.
-  ![telaEquilibrioCorreçãoCTC](https://user-images.githubusercontent.com/38968106/139685749-14bc52c3-2064-4f12-9726-8ba70953d2fe.PNG)
+  ![telaEquilibrioCorreçãoCTC](https://user-images.githubusercontent.com/38968106/139688868-4540b62d-1cb6-4dd1-8113-59fbf0209053.PNG)
+
 
 
 ### Autor
